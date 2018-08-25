@@ -5,5 +5,5 @@
  * Author: Gaurav singh
  * email : gauravsingh@circuitvalley.com
  * copy right : www.circuitvalley.com 
- *https://www.circuitvalley.com/2018/08/diy-open-source-lm399-voltage-reference-10v-dmm-calibrate.html
+ * https://www.circuitvalley.com/2018/08/diy-open-source-lm399-voltage-reference-10v-dmm-calibrate.html
  */
