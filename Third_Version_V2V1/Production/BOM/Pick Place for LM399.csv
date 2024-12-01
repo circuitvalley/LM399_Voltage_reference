@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\gaurav\Documents\Altium\phase2\LM399_V2\LM399_V2\Project Outputs for LM399_V2\Pick Place for LM399.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06-11-24
+Time:       00:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"TR1","TRIM-GENERIC","TopLayer","TRIMMER-MT","41.7068","41.5798","180","TRIMMABLE RESISTOR"
+"J9","SMA","TopLayer","SMA_Connector","78.6230","36.9820","270",""
+"J3","USB C Connector","TopLayer","UT11113-11602-7H","4.0965","37.1602","270","USB C connector"
+"T4","TestHook","TopLayer","TEST_PAD_HOOK","31.4198","42.0624","0",""
+"T3","TestHook","TopLayer","TEST_PAD_HOOK","31.4198","12.0904","0",""
+"T2","TestHook","TopLayer","TEST_PAD_HOOK","25.4508","42.0624","0",""
+"T1","TestHook","TopLayer","TEST_PAD_HOOK","59.8170","23.6220","0",""
+"R10","RES_NL_0603","TopLayer","RESC1608N","11.2238","43.1292","90","Resistor, SMD chip"
+"R11","RES_NL_0603","TopLayer","RESC1608N","9.7028","43.1292","90","Resistor, SMD chip"
+"R15","RES_NL_0603","TopLayer","RESC1608N","51.0794","41.5481","0","Resistor, SMD chip"
+"R14","RES_NL_0603","TopLayer","RESC1608N","51.0794","39.7891","0","Resistor, SMD chip"
+"R13","RES_NL_0603","TopLayer","RESC1608N","51.0794","43.4086","0","Resistor, SMD chip"
+"R12","RES_NL_0603","TopLayer","RESC1608N","51.0794","38.0302","0","Resistor, SMD chip"
+"D2","SDT5A60SA-13","TopLayer","DO-214AC","19.6850","16.1544","270",""
+"J1","2624-1102","TopLayer","2624-1102","7.5770","17.1260","270","2624-1102"
+"U1","LT1615ES5/AP3012","TopLayer","SOT23-5","15.2654","36.8808","90","Boost Conveter"
+"R9","RES_NL_0603","TopLayer","RESC1608N","15.1636","33.0708","0","Resistor, SMD chip"
+"R8","RES_NL_0603","TopLayer","RESC1608N","15.1890","31.1150","180","Resistor, SMD chip"
+"L1","10uh","TopLayer","FDSD0420-H-2R2M","11.2014","36.8584","270",""
+"D1","SDT5A60SA-13","TopLayer","DO-214AC","9.3218","30.6578","270",""
+"C10","10µ","TopLayer","CAPC3225N","14.2494","43.5102","90","Capacitor SMD Cer 10uF 20% 16V X5R 1210"
+"C9","47uf 20V D","TopLayer","CAPMP7343X310N","15.6464","27.9654","0","Capacitor SMD Tant 330uF 20% 6V3 2917"
+"C8","10µ","TopLayer","CAPC3225N","5.6896","29.4386","90","Capacitor SMD Cer 10uF 20% 16V X5R 1210"
+"C7","approved sub OK","TopLayer","CAPC1608N","15.0622","39.9034","0","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"DRL4","Mounting","TopLayer","NO_COPPER_NOMASK_2m75_6m2","77.6362","47.1850","0","Mounting Hole"
+"C6","approved sub OK","TopLayer","CAPC1608N","50.5554","14.4525","90","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"C5","approved sub OK","TopLayer","CAPC1608N","54.8386","21.0946","90","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"C3","approved sub OK","TopLayer","CAPC1608N","56.7436","31.2324","0","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"R2","RES_NL_0603","TopLayer","RESC1608N","56.0324","12.5984","180","Resistor, SMD chip"
+"R1","RES_NL_0603","TopLayer","RESC1608N","58.1660","15.4940","90","Resistor, SMD chip"
+"R7","RES_NL_0603","TopLayer","RESC1608N","45.8978","36.2782","180","Resistor, SMD chip"
+"R6","RES_NL_0603","TopLayer","RESC1608N","51.0794","36.2712","0","Resistor, SMD chip"
+"R5","RES_NL_0603","TopLayer","RESC1608N","31.4196","21.8440","0","Resistor, SMD chip"
+"R4","RES_NL_0603","TopLayer","RESC1608N","56.4134","21.1075","90","Resistor, SMD chip"
+"U4","LT3042","TopLayer","MSOP10","53.5940","16.4084","0","Low noise Linear Regulator"
+"DRL3","Mounting","TopLayer","NO_COPPER_NOMASK_2m75_6m2","77.6362","3.3020","0","Mounting Hole"
+"DRL2","Mounting","TopLayer","NO_COPPER_NOMASK_2m75_6m2","4.6228","47.1850","0","Mounting Hole"
+"DRL1","Mounting","TopLayer","NO_COPPER_NOMASK_2m75_6m2","4.6228","3.3020","0","Mounting Hole"
+"C4","approved sub OK","TopLayer","CAPC1608N","56.7436","29.3519","0","Capacitor SMD Cer 1nF 10% 100V X7R 0603"
+"C2","47uf 20V D","TopLayer","CAPMP7343X310N","52.1970","8.2550","270","Capacitor SMD Tant 330uF 20% 6V3 2917"
+"C1","47uf 20V D","TopLayer","CAPMP7343X310N","46.9900","19.6342","180","Capacitor SMD Tant 330uF 20% 6V3 2917"
+"U3","LM399","TopLayer","TO-46","31.5214","28.0924","180",""
+"U2","LT1001ACN8","TopLayer","N8","49.8602","29.2862","0","General Purpose, High Precision Op Amp"
+"R3","RES_NL_0603","TopLayer","RESC1608N","56.5658","15.5016","270","Resistor, SMD chip"
+"J2","2624-1103","TopLayer","2624-1103","74.9850","20.7010","90","2624-1103"
+"LED1","","TopLayer","LED-0805-K","81.4996","9.9339","270","LED, 0805 SMD, Green"
