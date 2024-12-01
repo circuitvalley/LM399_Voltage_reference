@@ -14,7 +14,7 @@ License][cc-by].
 [![CC BY 4.0][cc-by-image]][cc-by]
 
  <a href="https://www.youtube.com/watch?v=Ty0r_sLv-CI">
-<img src="https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3/raw/master/Hardware/Images/imx477_video.png" alt="IMX219" width="830" height="560">
+<img src="https://raw.githubusercontent.com/circuitvalley/LM399_Voltage_reference/refs/heads/master/Third_Version_V2V1/Images/ADR1399_LM399_Rererence_DIY_opensource_pcb%20(VID).jpeg" alt="ADR1399" width="830" height="560">
 </a>
 
 
@@ -22,4 +22,7 @@ License][cc-by].
 
 ![alt text](https://raw.githubusercontent.com/circuitvalley/LM399_Voltage_reference/refs/heads/master/Third_Version_V2V1/Images/ADR1399_LM399_Rererence_DIY_opensource_pcb%20(15).JPG)
 
+![alt text](https://raw.githubusercontent.com/circuitvalley/LM399_Voltage_reference/refs/heads/master/Third_Version_V2V1/Images/ADR1399_LM399_Rererence_DIY_opensource_pcb%20(12).JPG)
+
 ![alt text](https://raw.githubusercontent.com/circuitvalley/LM399_Voltage_reference/refs/heads/master/Third_Version_V2V1/Images/ADR1399_LM399_Rererence_DIY_opensource_pcb%20(1).JPG)
+
