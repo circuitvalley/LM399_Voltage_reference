@@ -1,7 +1,7 @@
 # LM399 ADR1399 Voltage Reference
 ------------
 
- * Files: LM399 Reference board published on www.circuitvalley.com
+ * Files for LM399 ADR1399 Reference board published on www.circuitvalley.com
  * Author: Gaurav singh
  * email : gauravsingh@circuitvalley.com
  * https://www.circuitvalley.com/2024/12/TEN399-ADR1399-LM399-10V-reference-calibrated-DIY-PCB.html
