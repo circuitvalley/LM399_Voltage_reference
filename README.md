@@ -6,12 +6,16 @@
  * email : gauravsingh@circuitvalley.com
  * https://www.circuitvalley.com/2024/12/TEN399-ADR1399-LM399-10V-reference-calibrated-DIY-PCB.html
  * 
- Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
  <a href="https://www.youtube.com/watch?v=Ty0r_sLv-CI">
 <img src="https://raw.githubusercontent.com/circuitvalley/LM399_Voltage_reference/refs/heads/master/Third_Version_V2V1/Images/ADR1399_LM399_Rererence_DIY_opensource_pcb%20(VID).jpeg" alt="ADR1399" width="830" height="560">
