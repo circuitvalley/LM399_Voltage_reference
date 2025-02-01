@@ -5,7 +5,7 @@
  * Author: Gaurav singh
  * email : gauravsingh@circuitvalley.com
  * https://www.circuitvalley.com/2024/12/TEN399-ADR1399-LM399-10V-reference-calibrated-DIY-PCB.html
- * 
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
